@@ -18,6 +18,9 @@ CAST is built around three key steps:
 3. **Knowledge Distillation**  
    Transfer instance-level predictions and refined feature representations from a large teacher to the compact student.
 
+![Debiased Pixel-level Negative Sampling](docs/DebiasedPixelNegativeSampling.gif)
+
+
 This design yields a student model that nearly matches its teacher on standard benchmarks despite using far fewer parameters and FLOPs.
 
 
