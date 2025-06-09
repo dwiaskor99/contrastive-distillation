@@ -18,7 +18,10 @@ CAST is built around three key steps:
 3. **Knowledge Distillation**  
    Transfer instance-level predictions and refined feature representations from a large teacher to the compact student.
 
-This design yields a student model that nearly matches its teacher on standard benchmarks—despite using far fewer parameters and FLOPs.
+This design yields a student model that nearly matches its teacher on standard benchmarks despite using far fewer parameters and FLOPs.
+
+
+![Pipeline Overview](docs/statistics.png)
 
 ---
 
