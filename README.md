@@ -1,5 +1,8 @@
 # CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation
 
+**Paper:** [arXiv:2505.21904](https://arxiv.org/abs/2505.21904)
+
+
 > A three-stage pipeline that leverages limited labels and abundant unlabeled data to train a compact student model via contrastive pixel-wise distillation.
 
 ---
