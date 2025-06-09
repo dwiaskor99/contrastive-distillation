@@ -21,7 +21,9 @@ CAST is built around three key steps:
 This design yields a student model that nearly matches its teacher on standard benchmarks despite using far fewer parameters and FLOPs.
 
 
-![Pipeline Overview](docs/statistics.png)
+| Statistics                        | Performance                       |
+|-----------------------------------|-----------------------------------|
+| ![Statistics](docs/statistics.png) | ![Performance](docs/performance.png) |
 
 ---
 
