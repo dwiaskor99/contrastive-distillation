@@ -4,7 +4,7 @@
 
 ---
 
-![Pipeline Overview](docs/setup.pdf)
+![Pipeline Overview](docs/setup.png)
 
 ---
 
